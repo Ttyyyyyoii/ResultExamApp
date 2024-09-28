@@ -1,0 +1,41 @@
+/* Styles pour le VBox */
+.vbox, .conteneurChampMatriculeEtBtnSearchAndDetailUserHBox {
+    -fx-background-color: #f9f9f9;
+    -fx-padding: 20px;
+    -fx-spacing: 10px;
+    -fx-border-radius: 10;
+    -fx-border-color: #ccc;
+    -fx-border-width: 2;
+}
+
+/* Styles pour les boutons */
+.button {
+	
+    -fx-background-color: #4CAF50; /* Vert */
+    -fx-text-fill: white;
+    -fx-padding: 10px;
+    -fx-font-weight: bold;    
+}
+.button{
+	
+}
+
+/* Styles pour les champs de texte */
+.text-field {
+    -fx-padding: 10px;
+    -fx-border-color: #ccc;
+    -fx-border-radius: 5;
+}
+
+
+/* Styles pour les étiquettes */
+.label {
+    -fx-font-weight: bold;
+    -fx-paddind: 10px;
+}
+.resultLabel {
+	-fx-border: 1px;
+	-fx-border-style: solid;
+	-fx-border-color: gray;
+	-fx-padding: 9px;
+}
